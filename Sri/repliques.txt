@@ -1,3 +1,4 @@
-prénom1 :
-prénom2 :
-prénom3 :
+Quel est votre couleur préféré ?
+
+Julien :
+Javier :
