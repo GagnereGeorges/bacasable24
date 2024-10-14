@@ -1,5 +1,10 @@
 David : Ma question préférée: que vais-je faire de toute cette oseille ?
 Léo :
+<<<<<<< HEAD
 Arsu : Bahamas
 Mathias :
+=======
+Arsu :
+Mathias :Si je te fend le crane en deux quel œil va se fermer le premier
+>>>>>>> 70b4722a8a40d555261b93ffeaef9d76edb8ebb5
 Alexandre : La lambo
