@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 David : 
 Léo : 
 Arsu : Ce soir league ? 
 Mathias : non à la drogue
 Alexandre : 
-=======
-David : Nan j'dois faire mon système solaire unity
-Léo : Peux pas, je vais à l'opéra...
-Arsu : Ce soir league ?
-Mathias :
-Alexandre : Je vais passer ltime avec ma Z
->>>>>>> e56b26290368d0d32a0f9f102fc17f73f626ab4c
+4c
