@@ -1,5 +1,11 @@
 David : Maxou
 Léo : Quel est le nom de votre premier animal ?
+<<<<<<< HEAD
 Arsu : Asena
 Mathias : 
 Alexandre :
+=======
+Arsu :
+Mathias : aucun RIP
+Alexandre : Rangi
+>>>>>>> a5ab731f00552421ee77210489208a34e32884b9
