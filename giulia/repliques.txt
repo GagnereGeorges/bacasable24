@@ -1,2 +1,4 @@
 prénom1 : Giulia
 question1 : Couleur préférée ?
+prénom2: Alice
+réponse question1 : ma couleur est le bleu
