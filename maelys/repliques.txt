@@ -1,3 +1,8 @@
 maelys : est ce que j'ai compris git 
+<<<<<<< HEAD
 prénom2 :
 Lys : ptdr non
+=======
+miranda : c'est compliqué
+prénom3 :
+>>>>>>> 999022905c1aacfd4e553e9f17c9e7a080749ff9
