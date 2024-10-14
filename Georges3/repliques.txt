@@ -1,3 +1,3 @@
-Georges3 :Est-ce que vous commencez à comprendre Git?
+Georges3 :Est-ce que vous commencez à comprendre Git en suivant les exemples du prof (et en les comprenant)?
 prénom2 :
 prénom3 :
