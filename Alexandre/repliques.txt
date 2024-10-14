@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-David :
-Leo :
 Arsu : kékséksa
-Matthias :
-=======
 David : C'est un rappeur
 Leo : Savon ?
-Arsu :
 Matthias : Non
->>>>>>> e906c504b4d43344c876cd820c395e77c2c6e0ca
 Alexandre : Et SVN vous connaissez ?
