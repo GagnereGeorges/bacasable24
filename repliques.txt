@@ -1,3 +1,3 @@
-prénom1 :
+Fred3 : Quel temps fait-il aujourd'hui ?
 prénom2 :
 prénom3 :
